@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="hint">Type your question here...</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="button_ok">OK</string>
+    <string name="helper_text">Required field</string>
+    <string name="result">(Result will be shown here)</string>
+    <string name="button_open">Open</string>
+    <string name="file_name">test.txt</string>
+    <string name="data_viewer">Data Viewer</string>
+</resources>
