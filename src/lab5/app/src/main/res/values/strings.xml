@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="enter_step_goal">Enter step goal:</string>
+    <string name="eg_5000">e. g. 5000</string>
+    <string name="enter_time_limit">Enter time limit in minutes (optional):</string>
+    <string name="eg_1">e. g. 1</string>
+    <string name="enter_stride_length">Enter your stride length in meters (optional):</string>
+    <string name="eg_0_76">e. g. 0.76 (default)</string>
+    <string name="start">Start</string>
+    <string name="goal">Goal:</string>
+    <string name="_0">0</string>
+    <string name="steps">Steps:</string>
+    <string name="distance">Distance:</string>
+    <string name="_0_00_km">0.00 km</string>
+    <string name="elapsed">Elapsed:</string>
+    <string name="_00_00">00:00</string>
+    <string name="remaining">Remaining:</string>
+    <string name="infinity">∞</string>
+    <string name="pause">Pause</string>
+    <string name="_continue">Continue</string>
+</resources>
